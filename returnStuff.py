@@ -1,5 +1,7 @@
-def returnS():
-  pass
+
+
+# def returnS():
+#   pass
 
 ########################################################################################################################
     # allow us to create blocks of code that can be easily executed  many times and in different contexts without the need to rewrite the entire block
@@ -8,7 +10,9 @@ def returnS():
   # using the first number as the base, and the second as the exponent:
 
 
-
+def power(num1,num2):
+  return num1 ** num2
+  
 
 
 
