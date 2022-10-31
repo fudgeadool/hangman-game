@@ -1,7 +1,7 @@
 # from methods_help import method_help
 # from functions import function,welcome, add_numbers, num_dividedFrom_add_numbers, greet, square, welcomee
 # from returnStuff import power, usd_to_eur
-from dynamic_functions import check_3Digits
+from dynamic_functions import sum_less
 
 
 # method_help()
@@ -21,5 +21,8 @@ from dynamic_functions import check_3Digits
 # returnS()
 # sum = 526 + 345
 
-result = check_3Digits([55, 99, 600, 78, 120, 1, 253])
-print(result)
+# result = check_3Digits([55, 99, 600, 78, 120, 1, 253])
+# print(result)
+
+total = sum_less([20 + 30])
+print(total)

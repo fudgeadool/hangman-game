@@ -18,12 +18,27 @@ def check_3Digits(list1):
 
 # Don't call the function, you just need to define it.
 
+def all_positives(list2):
+  for n in list2:
+    if n in range(1, 100):
+      return True
+    else:
+      pass
+  return False 
+
 
 ########################################################################################################################
 # Dynamic Functions Practice #2
 # Create a function (sum_less) that adds the numbers of a list (stored in the variable numbers) as long as they are greater than 0 and less than 1000, and returns the result of said sum.
-
-
+num = []
+def sum_less(list3):
+  total = 0
+  for n in num:
+    if n in range(1, 100):
+      total += n
+    else:
+      print("no")
+  return total
 
 ########################################################################################################################
 # Dynamic Functions Practice #3
