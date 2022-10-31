@@ -19,5 +19,7 @@ from dynamic_functions import check_3Digits
 # us = usd_to_eur(100)
 # print(us)
 # returnS()
-result = check_3Digits(50000000)
+# sum = 526 + 345
+
+result = check_3Digits([55, 99, 600, 78, 120, 1, 253])
 print(result)
