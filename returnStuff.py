@@ -26,7 +26,8 @@ def power(num1,num2):
 
 
 
-
+def usd_to_eur(dollars):
+  return .90 * dollars
 
 
 
