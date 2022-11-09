@@ -1,3 +1,18 @@
 {
-  "files": {}
+  "files": {
+    "function_interactions.py": [
+      {
+        "id": "0f5e9c82-490e-484a-808f-8080ba6ddb52",
+        "line": 6,
+        "version": 2,
+        "index": 212
+      },
+      {
+        "id": "27368980-a2d9-43e2-b1a2-46443d20906e",
+        "line": 7,
+        "version": 2,
+        "index": 232
+      }
+    ]
+  }
 }
